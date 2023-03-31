@@ -9,3 +9,4 @@
 
 - [ni - use the right package manager](https://github.com/antfu/ni)
 - [degit — straightforward project scaffolding](https://github.com/Rich-Harris/degit)
+- [publint - Lint packaging errors](https://github.com/bluwy/publint)
