@@ -11,3 +11,4 @@
 - [ni - use the right package manager](https://github.com/antfu/ni)
 - [degit — straightforward project scaffolding](https://github.com/Rich-Harris/degit)
 - [publint - Lint packaging errors](https://github.com/bluwy/publint)
+- [patch-package - lets app authors instantly make and keep fixes to npm dependencies](https://github.com/ds300/patch-package)
