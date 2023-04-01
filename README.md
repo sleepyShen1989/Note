@@ -12,3 +12,6 @@
 - [publint - Lint packaging errors](https://github.com/bluwy/publint)
 - [patch-package - lets app authors instantly make and keep fixes to npm dependencies](https://github.com/ds300/patch-package)
 - [vite-plugin-inspect - Inspect the intermediate state of Vite plugins](https://github.com/antfu/vite-plugin-inspect)
+- [unplugin-vue-components - On-demand components auto importing for Vue.](https://github.com/antfu/unplugin-vue-components)
+- [unplugin-auto-import - Auto import APIs on-demand for Vite, Webpack, Rollup and esbuild. ](https://github.com/antfu/unplugin-auto-import)
+- [minimist - parse argument options](https://github.com/minimistjs/minimist)
