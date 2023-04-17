@@ -8,10 +8,11 @@
 
 ## 库
 
-- [ni - use the right package manager](https://github.com/antfu/ni)
-- [publint - Lint packaging errors](https://github.com/bluwy/publint)
-- [patch-package - lets app authors instantly make and keep fixes to npm dependencies](https://github.com/ds300/patch-package)
-- [vite-plugin-inspect - Inspect the intermediate state of Vite plugins](https://github.com/antfu/vite-plugin-inspect)
-- [unplugin-vue-components - On-demand components auto importing for Vue.](https://github.com/antfu/unplugin-vue-components)
-- [unplugin-auto-import - Auto import APIs on-demand for Vite, Webpack, Rollup and esbuild. ](https://github.com/antfu/unplugin-auto-import)
-- [minimist - parse argument options](https://github.com/minimistjs/minimist)
+- [ni - use the right package manager](https://github.com/antfu/ni) - 统一包管理工具命令
+- [publint - Lint packaging errors](https://github.com/bluwy/publint) - package.json文件内容检查
+- [patch-package - lets app authors instantly make and keep fixes to npm dependencies](https://github.com/ds300/patch-package) - 本地修复使用的开源项目代码
+- [vite-plugin-inspect - Inspect the intermediate state of Vite plugins](https://github.com/antfu/vite-plugin-inspect) - 检查对应vite-plugin做了什么
+- [unplugin-vue-components - On-demand components auto importing for Vue.](https://github.com/antfu/unplugin-vue-components) - 组件自动导入
+- [unplugin-auto-import - Auto import APIs on-demand for Vite, Webpack, Rollup and esbuild. ](https://github.com/antfu/unplugin-auto-import) - 自动导入Vue/React API
+- [minimist - parse argument options](https://github.com/minimistjs/minimist) - 命令行参数提取
+- [Taze - A modern cli tool that keeps your deps fresh](https://github.com/antfu/taze) - 更新依赖包版本
