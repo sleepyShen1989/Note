@@ -16,3 +16,14 @@
 - [unplugin-auto-import - Auto import APIs on-demand for Vite, Webpack, Rollup and esbuild. ](https://github.com/antfu/unplugin-auto-import) - 自动导入Vue/React API
 - [minimist - parse argument options](https://github.com/minimistjs/minimist) - 命令行参数提取
 - [Taze - A modern cli tool that keeps your deps fresh](https://github.com/antfu/taze) - 更新依赖包版本
+
+## VSCode插件
+
+- bookmark: 代码书签
+- vscode-icons: 图标
+- Volar: vue文件高亮
+- TODO Highlight: 代码内部设置TODO高亮
+- Todo Tree: 侧边栏显示项目中的TODO部分
+- Project Manager: 多目录切换
+- Import Cost: 展示引入的包的大小
+- Pretty TypeScript Errors：ts错误提示美化
