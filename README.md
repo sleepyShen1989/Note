@@ -17,6 +17,10 @@
 - [minimist - parse argument options](https://github.com/minimistjs/minimist) - 命令行参数提取
 - [Taze - A modern cli tool that keeps your deps fresh](https://github.com/antfu/taze) - 更新依赖包版本
 
+### Vue About
+
+- [vitesse](https://github.com/antfu/vitesse) - 各种vite脚手架模板
+
 ## VSCode插件
 
 - bookmark: 代码书签
