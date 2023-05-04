@@ -17,6 +17,7 @@
 - [minimist - parse argument options](https://github.com/minimistjs/minimist) - 命令行参数提取
 - [Taze - A modern cli tool that keeps your deps fresh](https://github.com/antfu/taze) - 更新依赖包版本
 - [cz-git - A Node.js-based git commit command-line tool that assists in generating standardized commit messages](https://github.com/Zhengqbbb/cz-git) - git commit信息规范化工具
+- [ufo - URL utils for humans.](https://github.com/unjs/ufo) - URL工具
 
 ### Vue About
 
