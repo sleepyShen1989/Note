@@ -34,6 +34,7 @@
 - Project Manager: 多目录切换
 - Import Cost: 展示引入的包的大小
 - Pretty TypeScript Errors：ts错误提示美化
+- Error lens: 高亮错误
 
 ## 文档 or 教程
 
