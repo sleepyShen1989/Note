@@ -5,6 +5,7 @@
 
 - [使用 JavaScript 检测文件 MIME TYPE](https://zhuanlan.zhihu.com/p/25049406)
 - [如何检查JS原生函数是否被Monkey Patched](https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/?utm_source=pocket_mylist)
+- [深拷贝的终极探索](https://segmentfault.com/a/1190000016672263#item-0-4)
 
 ## 库
 
