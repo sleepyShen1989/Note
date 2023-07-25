@@ -36,6 +36,7 @@
 - Import Cost: 展示引入的包的大小
 - Pretty TypeScript Errors：ts错误提示美化
 - Error lens: 高亮错误
+- quokkajs：playground in editor
 
 ## 文档 or 教程
 
